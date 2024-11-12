@@ -1,0 +1,19 @@
+{
+  "name": "dyi-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeromatti/dyi-notes.git"
+  },
+  "author": "Eero Hallikainen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeromatti/dyi-notes/issues"
+  },
+  "homepage": "https://github.com/eeromatti/dyi-notes#readme",
+  "description": ""
+}
